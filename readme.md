@@ -112,7 +112,7 @@ The following items should be installed in your system:
 ```
 git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
 ```
-
+test
 2) Inside Eclipse or STS
 ```
 File -> Import -> Maven -> Existing Maven project
